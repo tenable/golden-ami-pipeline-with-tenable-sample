@@ -39,9 +39,6 @@ For Step-By-Step instructions guide for this work, please refer [Golden AMI Pipe
 ## License Summary
 This sample code is made available under a modified MIT-0. See the [LICENSE](LICENSE) file.
 
-## Contributing
-Your contributions are always welcome! Please have a look at the [contribution guidelines](CONTRIBUTING.md) first. :tada:
-
 ## License
 This library is licensed under the MIT-0 License. See the [LICENSE](LICENSE) file.
 
